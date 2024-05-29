@@ -1,4 +1,4 @@
 # Teaching
 
-Diffusion Notebook Lab session for M1 students.
-Answers available
+This is a Diffusion Notebook Lab session for M1 students following the DDPM paper to generate MNIST digits in unconditional and conditional ways. <br>
+Answers available.
